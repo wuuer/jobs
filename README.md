@@ -14,6 +14,8 @@
 
 各大厂的面试题请看[这里](https://github.com/dotnet-cn/jobs/blob/master/interview_questions.md)
 
+### [马来西亚使用.NET的公司列表 Companies using .NET in Malaysia](https://github.com/tonyqus/dotnet-jobs-my/)
+
 # 目前正在使用.NET的公司 Companies using .NET in China
 ## 软件/咨询 Software/Consulting
 - PwC - 上海/成都
