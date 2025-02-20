@@ -6,6 +6,8 @@
 
 我们的口号是找.NET职位跟做开源项目一样简单，订阅就行。
 
+### [马来西亚使用.NET的公司列表 Companies using .NET in Malaysia](https://github.com/tonyqus/dotnet-jobs-my/)
+
 # 社群 Online Social
 
 微信群：[加群通道](https://github.com/dotnet-cn/jobs/issues/13)
@@ -13,8 +15,6 @@
 ### 面试准备 Interview Preparation
 
 各大厂的面试题请看[这里](https://github.com/dotnet-cn/jobs/blob/master/interview_questions.md)
-
-### [马来西亚使用.NET的公司列表 Companies using .NET in Malaysia](https://github.com/tonyqus/dotnet-jobs-my/)
 
 # 目前正在使用.NET的公司 Companies using .NET in China
 ## 软件/咨询 Software/Consulting
