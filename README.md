@@ -129,7 +129,7 @@
 - Linnovate Partners - 深圳 
 - 富谙智 FNZ - 上海 
 
-### 银行
+### 银行 Banks
 - 摩根斯坦利 Morgan Stanley - 上海
 - 摩根大通 JP Morgan - 上海
 - 瑞银 UBS - 上海
