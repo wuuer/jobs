@@ -79,9 +79,9 @@
 - 同城艺龙 - 成都/苏州 ![腾讯云](https://img.shields.io/badge/腾讯云-569fff.svg)
 
 ### 电商 eCommerce
-- iHerb - 上海/台北/Irvine [详细信息](https://github.com/orgs/dotnet-cn/discussions/31) 
+- iHerb - 上海/台北/Irvine 
 - Pacvue - 无锡/Seattle ![aws](https://img.shields.io/badge/aws-f8991b.svg)
-- PlayerAuctions - 上海 ![azure](https://img.shields.io/badge/azure-2d6cbe.svg) [详细信息](https://github.com/orgs/dotnet-cn/discussions/32)
+- PlayerAuctions - 上海 ![azure](https://img.shields.io/badge/azure-2d6cbe.svg) 
 - PlanetArt - 上海/杭州 (这是集团公司，cafepress是其子公司)
 - 5173 - 上海 [这家瓜很多](https://www.zhihu.com/question/22051781)
 
