@@ -10,7 +10,7 @@
 
 # 社群 Online Social
 
-微信群：[加群通道](https://github.com/dotnet-cn/jobs/issues/13)
+微信群：[加群通道](https://github.com/shnug/jobs/issues/13)
 
 ### 面试准备 Interview Preparation
 
@@ -23,7 +23,7 @@
 - Cognizant - 上海
 - Tata - 上海
 - [AON Hewitt](http://www.aon.com) 上海
-- 微软 Microsoft - 上海/苏州/北京 [详细信息](https://github.com/orgs/dotnet-cn/discussions/37)
+- 微软 Microsoft - 上海/苏州/北京 [详细信息](https://github.com/orgs/shnug/discussions/37)
 - 明源云 - 武汉
 - Optimum System (奥解思)
 - 扩博智能 Clobotics - 上海 ![azure](https://img.shields.io/badge/azure-2d6cbe.svg)
@@ -173,7 +173,7 @@
 - 宝信软件 - 上海
 
 ### 汽车 Automobile
-- 特斯拉 Tesla - 上海  ![mongodb](https://img.shields.io/badge/MongoDB-076141.svg)  [详细信息](https://github.com/orgs/dotnet-cn/discussions/36) 
+- 特斯拉 Tesla - 上海  ![mongodb](https://img.shields.io/badge/MongoDB-076141.svg)  [详细信息](https://github.com/orgs/shnug/discussions/36) 
 - 蔚来汽车 NIO - 上海 ![腾讯云](https://img.shields.io/badge/腾讯云-569fff.svg)
 - 德国大众 Volkswagen  - 北京 ![azure](https://img.shields.io/badge/azure-2d6cbe.svg)
 - 宝马中国 BMW - 上海/北京 ![azure](https://img.shields.io/badge/azure-2d6cbe.svg)
@@ -182,7 +182,7 @@
 - 经纬恒润 - 天津/成都/北京
 
 ### 日化/化工 Daily Chemical/Chemical Engineering
-- 陶氏化学 Dow Chemical- 上海 ![azure](https://img.shields.io/badge/azure-2d6cbe.svg) [详细信息](https://github.com/orgs/dotnet-cn/discussions/33)
+- 陶氏化学 Dow Chemical- 上海 ![azure](https://img.shields.io/badge/azure-2d6cbe.svg) [详细信息](https://github.com/orgs/shnug/discussions/33)
 - [Aspen Technology](https://www.aspentech.com/)- 上海  ![aws](https://img.shields.io/badge/aws-f8991b.svg)
 - 联合利华 Unilever - 上海/合肥 ![azure](https://img.shields.io/badge/azure-2d6cbe.svg)
 
