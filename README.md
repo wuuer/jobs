@@ -183,6 +183,7 @@
 - 农夫山泉 - 宁波
 - 雀巢 Nestle - 武汉/北京 ![azure](https://img.shields.io/badge/azure-2d6cbe.svg)
 - 利乐 Tetra Pak - 上海
+- 鸣鸣很忙(量贩零食) - 长沙
 
 ### 钢铁 Steel
 
